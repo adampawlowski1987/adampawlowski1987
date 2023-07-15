@@ -4,4 +4,4 @@
 
 # My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-adampawlowski1987&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adampawlowski1987&theme=dark&background=000000)
